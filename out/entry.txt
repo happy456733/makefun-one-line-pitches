@@ -1,1 +1,0 @@
-Describe the app idea you’ve been carrying around in plain words and an AI agent on make.fun will build a working version for you — no code, no setup, and nothing to lose by trying.
